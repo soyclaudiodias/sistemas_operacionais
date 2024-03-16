@@ -8,7 +8,7 @@
 # 1. Compilar o programa
 ``` git clone git@github.com:<url_do_seu_repositorio> ```
 
-![Captura de tela 2024-03-11 075047](https://github.com/soyclaudiodias/sistemas_operacionais/assets/113221142/8219cabc-74e5-4495-ac61-ec790f23d3f0)
+![Captura de tela 2024-03-16 182046](https://github.com/soyclaudiodias/sistemas_operacionais/assets/113221142/f4508790-1987-466e-be3e-e31d1dac6347)
 
 # 2. Executar o programa
 ``` ./exercicio1.c ```
